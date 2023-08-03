@@ -23,5 +23,5 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]:www.linkedin.com/in/jessie-carrillo
+[linkedin]:https://www.linkedin.com/in/jessie-carrillo
 
